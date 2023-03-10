@@ -123,6 +123,7 @@ ul{
     left: 0;
 }
 .cover::before{
+    content:"";
     background: url("/images/bg2.jfif");
     background-size: 100vw 80vh;
     z-index: -1;
